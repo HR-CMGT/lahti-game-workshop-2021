@@ -52,7 +52,11 @@ If you don't have a `localhost` server, the simplest way to start one is by down
 - Now we'll look at `game.js` and start adding a ball and the paddle from javascript. Remove the balls and paddle elements from the HTML file.
 - We'll also move `requestAnimationFrame` to the `game.js` file so there is only *one loop* that updates the ball and paddle.
 - The game checks the collision detection for the ball and the paddle! We should now have a working PONG game!
+
+### Play around with the code
+
 - Can you adjust the code so the ball doesn't bounce on the left wall? Instead, the ball should re-appear on the right after it exits the left side of the screen.
+- Can you show a score? You score 1 point if the paddle hits the ball. The computer scores one point if the ball leaves the screen on the left side.
 
 ### Help
 
