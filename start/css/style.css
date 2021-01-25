@@ -1,0 +1,37 @@
+html, body {
+    height: 100%;
+}
+
+body {
+    background-color: #70CF51;
+    font-family: 'Press Start 2P', cursive;
+    color: white;
+    font-size: 14px;
+    overflow: hidden;
+    margin: 0px;
+    padding: 0px;
+    background-image: url(../images/court.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+ball-component, paddle-component {
+    position: absolute;
+    left: 0;
+    top: 0;
+    display: block;
+    box-sizing: border-box;
+    background-repeat: no-repeat;
+}
+
+ball-component {
+    background-image: url(../images/ball.png);
+    width: 50px;
+    height: 50px;
+}
+
+paddle-component {
+    background-image: url(../images/paddle.png);
+    width: 25px;
+    height: 100px;
+}
