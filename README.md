@@ -1,5 +1,8 @@
-# Workshop international week
+# Lahti Finland iWeek Workshop
 
+## Creating a gesture-controlled browser game
+
+<br>
 <br>
 
 ## About the lecturer
