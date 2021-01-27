@@ -23,6 +23,11 @@ This workshop consists of three parts:
 - [Intro to building a browser game with **plain HTML, CSS and Javascript custom elements**](./game.md).
 - How to build webcam detection with Teachable Machine.
 - Integrating the webcam detector into the game.
+
+<a href="https://www.youtube.com/watch?v=s5-s8iZqXvg"><img src="./start/images/endresult.png" width="350px"></a>
+
+*End result video clip*
+
 ---
 <br>
 <br>
