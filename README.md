@@ -18,11 +18,11 @@ I'm [Erik Katerborg](https://www.linkedin.com/in/eerkmans/), and I teach Creativ
 
 ## Workshop: Controlling a browser game with the webcam
 
-This workshop consists of three parts:
+In this workshop we will learn to build a simple game in the browser, using common web technologies: HTML, CSS and Javascript.
 
-- [Intro to building a browser game with **plain HTML, CSS and Javascript custom elements**](./game.md).
-- How to build webcam detection with Teachable Machine.
-- Integrating the webcam detector into the game.
+We will learn to use **custom components** to add game code to normal HTML elements.
+
+Then, we will look at google's Teachable Machine to build a webcam gesture recognizer. We will learn how to integrate the gesture recognition into our game!
 
 <a href="https://www.youtube.com/watch?v=s5-s8iZqXvg"><img src="./start/images/endresult.png" width="350px"></a>
 
@@ -46,7 +46,14 @@ If you don't have a `localhost` server, the simplest way to start one is by down
 <br>
 <br>
 
-## Building a game with custom elements
+## Introduction to games with HTML, CSS and Custom Elements
+
+- [First, let's look at the intro to building a browser game with **plain HTML, CSS and Javascript custom elements**](./game.md).
+
+<br>
+<br>
+
+## Building the PONG game
 
 - We are going to look at the three components of a PONG game: the main game file, the paddle file, and the ball file.
 - The paddle and the ball are **custom elements**. This means that they behave as HTML tags that can execute code. 
