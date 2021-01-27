@@ -18,9 +18,9 @@ I'm [Erik Katerborg](https://www.linkedin.com/in/eerkmans/), and I teach Creativ
 
 ## Workshop: Controlling a browser game with the webcam
 
-In this workshop, you'll learn the following techniques:
+This workshop consists of three parts:
 
-- How to build a browser game with **plain HTML, CSS and Javascript custom elements**.
+- [Intro to building a browser game with **plain HTML, CSS and Javascript custom elements**](./game.md).
 - How to build webcam detection with Teachable Machine.
 - Integrating the webcam detector into the game.
 ---
