@@ -11,3 +11,13 @@ body {
     margin: 0px;
     padding: 0px;
 }
+
+car-component {
+    display:block;
+    position:absolute;
+    box-sizing: border-box;
+    width:168px;
+    height:108px;
+    background-image:url(../images/car.png);
+}
+
